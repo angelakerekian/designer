@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700|Roboto+Slab:400,700,300|Chivo:400,900,400italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700|Roboto+Slab:400,700,300|Chivo:400,900,400italic);
 /*------------------------------------------------------------------
 
 [Master Stylesheet]
@@ -1902,7 +1902,7 @@ section {
   text-align: center;
 }
 #lgx-portfolio .lgx-gallery li {
-  background: #fff; 
+  background: #fff;
   box-sizing: border-box;
   float: left;
   width: 25%;
@@ -1930,7 +1930,7 @@ section {
 	opacity: 1;
 }
 
- 
+
 #lgx-portfolio .lgx-gallery figure {
   margin: 0;
   position: relative;
@@ -2013,7 +2013,7 @@ filter: grayscale(100%);
   -webkit-opacity: 1;
   opacity: 1;
 }
-/*------------------*/ 
+/*------------------*/
 
 #lgx-portfolio .lgx-gallery-default figure:hover .cap-header,
 #lgx-portfolio .lgx-gallery-default figure:hover .cap-description {
@@ -2928,10 +2928,9 @@ filter: grayscale(100%);
     padding: 3px 6px 2px 10px;
     margin: 10px;
   }
-    
-   
+
+
 }
 /********************************************************************/
 /*  LGX STYLE END ***************************************************
 *********************************************************************/
- 
